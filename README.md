@@ -12,11 +12,17 @@ PS: The videos look like they are stuttering as they are gifs and not mp4. Origi
 
 - Smart Blur: Blurs the webcam feed when a face is not present. 
 
+https://user-images.githubusercontent.com/51925368/180621724-84622ced-e01a-4d90-9e93-4b89971a2ab7.mp4
+
 - Smart Face Blur: Blur the face of the user and blurs the entire screen when the face is not present in the screen
+
+https://user-images.githubusercontent.com/51925368/180621737-6c3a9877-179c-4cd8-85d1-06022318fe98.mp4
 
 - Top-Down Camera (COLOR): Provides a colored top down view of a user defined area
 
 - Top-Down Camera (DOCUMENT): Provides a black and white, top-down view of a user defined area
+
+https://user-images.githubusercontent.com/51925368/180621741-ba688030-1e7f-4662-92e3-8f7623aa0a3b.mp4
 
 - Sketch Filter: Makes the webcame feed look like a black and white drawing
 ![Sketch](./README_media/sketch.jpg)
